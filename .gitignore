@@ -1,0 +1,16 @@
+# Entorno virtual local
+.venv/
+
+# Credenciales. .env.example sí puede versionarse.
+.env
+
+# Bytecode de Python
+__pycache__/
+*.pyc
+
+# Registros de ejecución
+logs/
+
+# Datos locales del pipeline
+data/raw/
+data/processed/
